@@ -5,6 +5,8 @@ VisualStudioVersion = 17.9.34701.34
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerMinder.Function", "PowerMinder.Function\PowerMinder.Function.csproj", "{F3AFF309-51D7-4664-AA1D-9E0F678ACEA4}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PowerMinder.Core", "PowerMinder.Core\PowerMinder.Core.csproj", "{A6706C23-1F61-41D9-9D52-F42F9B9A665D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F3AFF309-51D7-4664-AA1D-9E0F678ACEA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F3AFF309-51D7-4664-AA1D-9E0F678ACEA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F3AFF309-51D7-4664-AA1D-9E0F678ACEA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6706C23-1F61-41D9-9D52-F42F9B9A665D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6706C23-1F61-41D9-9D52-F42F9B9A665D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6706C23-1F61-41D9-9D52-F42F9B9A665D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6706C23-1F61-41D9-9D52-F42F9B9A665D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
